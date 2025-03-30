@@ -1,0 +1,4 @@
+Gender,Demographic Parity,False Positive Rate (Equalized Odds),False Negative Rate (Equalized Odds),Qualified Rate (Predictive Rate Parity),Unqualified Rate (Predictive Rate Parity)
+Man,0.0,0.0,0.4607329842931937,0.0,0.0
+NonBinary,0.0,0.0,0.0,,0.0
+Woman,0.0,0.0,0.42857142857142855,0.0,0.0
