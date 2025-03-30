@@ -1,0 +1,201 @@
+Unnamed: 0,Age,Accessibility,EdLevel,Employment,Gender,MentalHealth,MainBranch,YearsCode,YearsCodePro,Country,PreviousSalary,HaveWorkedWith,ComputerSkills,Employed,CounterfactualGender
+0,<35,No,Master,1,Man,No,Dev,7,4,Sweden,51552.0,C++;Python;Git;PostgreSQL,4,0,Woman
+1,<35,No,Undergraduate,1,Man,No,Dev,12,5,Spain,46482.0,Bash/Shell;HTML/CSS;JavaScript;Node.js;SQL;TypeScript;Git;Express;React.js;Vue.js;AWS;PostgreSQL,12,1,Woman
+2,<35,No,Master,1,Man,No,Dev,15,6,Germany,77290.0,C;C++;Java;Perl;Ruby;Git;Ruby on Rails,7,0,Woman
+3,<35,No,Undergraduate,1,Man,No,Dev,9,6,Canada,46135.0,Bash/Shell;HTML/CSS;JavaScript;PHP;Ruby;SQL;Git;jQuery;Laravel;Ruby on Rails;AWS;MySQL;PostgreSQL,13,0,Woman
+4,>35,No,PhD,0,Man,No,NotDev,40,30,Singapore,160932.0,C++;Python,2,0,Woman
+5,<35,No,Master,1,Man,No,Dev,9,2,France,38915.0,JavaScript;Python;Docker;Git;MySQL,5,0,Woman
+6,>35,No,Master,1,Man,No,Dev,26,18,Germany,77831.0,C++;HTML/CSS;Java;JavaScript;Kotlin;Node.js;TypeScript;Docker;Git;Kubernetes;Angular;Express;Spring;AWS;Heroku;DynamoDB;PostgreSQL,17,1,Woman
+7,<35,No,Master,1,Man,No,NotDev,14,5,Switzerland,81319.0,C++;Python;Docker;Git,4,0,Woman
+8,>35,No,Undergraduate,1,Man,No,Dev,39,21,United Kingdom of Great Britain and Northern Ireland,68507.0,Python;Git;PostgreSQL,3,0,Woman
+9,>35,No,Master,1,Man,No,Dev,20,16,Russian Federation,37752.0,Delphi;Java;SQL;Docker;Git;PostgreSQL,6,0,Woman
+10,<35,No,Undergraduate,1,Man,Yes,Dev,4,2,Israel,122580.0,Bash/Shell;Go;Java;Node.js;Python;Scala;SQL;Docker;Git;Kubernetes;Terraform;AWS;Google Cloud Platform;Microsoft Azure;DynamoDB;MongoDB;MySQL;PostgreSQL,18,1,Woman
+11,<35,No,Undergraduate,1,Man,Yes,Dev,6,2,Turkey,11832.0,Assembly;C;C#;C++;HTML/CSS;Java;JavaScript;Matlab;Node.js;SQL;Git;Unity 3D;jQuery,13,1,Woman
+12,<35,No,Master,1,Man,No,Dev,19,10,Germany,60535.0,C;C++;Java;Python;Git,5,0,Woman
+13,<35,No,Undergraduate,1,Man,No,Dev,8,0,United States of America,103000.0,Assembly;C;Java;Kotlin;Rust;Docker;Git,7,0,Woman
+14,<35,No,Master,1,Man,No,NotDev,6,3,France,25944.0,Bash/Shell;C#;C++;Python;Git,5,0,Woman
+15,>35,No,Undergraduate,1,Man,Yes,Dev,22,15,Brazil,60480.0,C#;C++;JavaScript;PowerShell;SQL;TypeScript;Docker;Git;Kubernetes;ASP.NET Core ;React.js;Heroku;Microsoft Azure;Microsoft SQL Server;PostgreSQL;Redis,16,1,Woman
+16,<35,No,Other,1,Man,Yes,Dev,7,1,Bulgaria,20556.0,C++;SQL;Git;MongoDB;MySQL,5,0,Woman
+17,<35,No,Undergraduate,1,Man,No,Dev,12,6,Greece,25944.0,C#;HTML/CSS;JavaScript;Node.js;PowerShell;TypeScript;VBA;Docker;Kubernetes;Angular;ASP.NET;ASP.NET Core ;Express;Svelte;AWS;DigitalOcean;Microsoft Azure;Couchbase;MariaDB;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;Redis;SQLite,25,1,Woman
+18,>35,No,Master,1,Man,Yes,Dev,34,12,United Kingdom of Great Britain and Northern Ireland,64630.0,Bash/Shell;HTML/CSS;Java;Python;SQL;TypeScript;Ansible;Git;Terraform;Yarn;React.js;Spring;MySQL;SQLite,14,1,Woman
+19,>35,No,Master,1,Man,No,Dev,21,16,Italy,54049.0,C;C#;HTML/CSS;Java;JavaScript;PHP;SQL;Docker;Git;Angular;ASP.NET Core ;jQuery;Spring;Microsoft SQL Server;MySQL;Oracle;SQLite,17,1,Woman
+20,<35,No,Other,1,Man,No,NotDev,5,3,Russian Federation,22644.0,Bash/Shell;HTML/CSS;JavaScript;Python;SQL;Docker;Git;Django;FastAPI;Vue.js;Heroku;Oracle,12,0,Woman
+21,>35,Yes,Other,1,Man,Yes,Dev,25,10,Canada,71850.0,C#;VBA;Git;ASP.NET;Microsoft SQL Server;MySQL,6,0,Woman
+22,>35,No,Master,1,Man,No,Dev,20,10,Spain,58373.0,Bash/Shell;JavaScript;Node.js;TypeScript;Terraform;AWS;DynamoDB,7,1,Woman
+23,>35,No,Undergraduate,1,Man,No,Dev,24,18,United Kingdom of Great Britain and Northern Ireland,129266.0,HTML/CSS;JavaScript;SQL;TypeScript;Git;Express;Gatsby;React.js;AWS;Heroku;PostgreSQL;SQLite,12,0,Woman
+24,<35,No,Master,1,Man,No,NotDev,10,2,Netherlands,25944.0,Bash/Shell;C;C++;Matlab;PowerShell;Python;Git,7,0,Woman
+25,>35,No,Undergraduate,1,Man,No,Dev,25,15,United States of America,105000.0,HTML/CSS;JavaScript;PHP;Git;jQuery;React.js,6,0,Woman
+26,<35,No,Undergraduate,1,Man,No,NotDev,12,8,Poland,45564.0,Bash/Shell;C#;Dart;Delphi;Go;HTML/CSS;Java;JavaScript;Kotlin;Node.js;Objective-C;PHP;PowerShell;Python;SQL;Swift;TypeScript;Docker;Git;Unity 3D;Angular;Angular.js;ASP.NET;ASP.NET Core ;Django;Express;Flask;jQuery;Laravel;React.js;Spring;Vue.js;Google Cloud Platform;Microsoft Azure;Firebase;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL,39,1,Woman
+27,>35,No,PhD,1,Man,No,Dev,10,8,Canada,151263.0,HTML/CSS;Python;R;Docker;Git;Flask;AWS;DynamoDB,8,0,Woman
+28,>35,No,Undergraduate,1,Man,No,NotDev,10,3,Sweden,40500.0,Bash/Shell;Java;JavaScript;PHP;Python;Ansible;Git;PostgreSQL,8,0,Woman
+29,<35,No,Undergraduate,0,Man,No,Dev,12,7,Switzerland,43908.0,Assembly;C;C#;Go;HTML/CSS;Java;JavaScript;Node.js;PowerShell;Python;SQL;TypeScript;Docker;Git;Yarn;ASP.NET;ASP.NET Core ;jQuery;React.js;Microsoft Azure;MariaDB;Microsoft SQL Server;MySQL;SQLite,24,1,Woman
+30,<35,No,Master,1,Man,No,Dev,25,6,Hungary,42336.0,Dart;HTML/CSS;Java;JavaScript;Node.js;PowerShell;TypeScript;Docker;Git;Angular;Django;Express;jQuery;React.js;Vue.js;Google Cloud Platform;Firebase;MariaDB;MongoDB;MySQL;Oracle,21,1,Woman
+31,>35,No,Other,1,Man,No,Dev,31,17,Canada,95295.0,C#;SQL;TypeScript;Docker;Kubernetes;ASP.NET Core ;AWS;Microsoft Azure;Elasticsearch;Microsoft SQL Server,10,1,Woman
+32,<35,No,PhD,1,Man,No,Dev,18,1,United States of America,100000.0,Bash/Shell;C#;HTML/CSS;Julia;Matlab;Python;Git;Google Cloud Platform,8,0,Woman
+33,>35,No,Undergraduate,1,Man,No,Dev,26,14,United Kingdom of Great Britain and Northern Ireland,61398.0,C#;Clojure;Go;JavaScript;Python;SQL;Git;jQuery;Microsoft Azure;Microsoft SQL Server,10,1,Woman
+34,<35,No,NoHigherEd,1,Man,Yes,NotDev,20,10,Netherlands,108098.0,Bash/Shell;C#;JavaScript;Node.js;PowerShell;Python;TypeScript;Docker;Git;Kubernetes;Puppet;Terraform;Unity 3D;ASP.NET;ASP.NET Core ;jQuery;React.js,17,1,Woman
+35,<35,No,Undergraduate,1,Man,No,Dev,10,4,Poland,27336.0,HTML/CSS;JavaScript;Node.js;PHP;SQL;TypeScript;Docker;Git;Terraform;Yarn;Laravel;React.js;AWS;DigitalOcean;Google Cloud Platform;Heroku;Firebase;MongoDB;MySQL;PostgreSQL;SQLite,21,1,Woman
+36,<35,No,Master,1,Man,No,Dev,10,7,Sweden,5216.0,Scala;Git;Google Cloud Platform;MongoDB,4,0,Woman
+37,<35,No,Master,0,Man,No,Dev,8,3,France,151337.0,Dart;JavaScript;Node.js;Docker;Git;Django;Vue.js;Google Cloud Platform;Firebase;PostgreSQL;SQLite,11,0,Woman
+38,<35,No,Other,0,Man,Yes,Dev,18,8,Germany,24648.0,C#;HTML/CSS;JavaScript;PHP;Docker;Git;Angular;Angular.js;ASP.NET;ASP.NET Core ;jQuery;AWS;Microsoft Azure;MariaDB;Microsoft SQL Server;MongoDB;PostgreSQL;SQLite,18,1,Woman
+39,<35,No,Undergraduate,1,Man,No,Dev,4,1,Pakistan,7788.0,Python;Docker;Git;Django;AWS,5,0,Woman
+40,>35,Yes,Master,1,Man,No,Dev,38,26,Switzerland,134176.0,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;Git;Angular;ASP.NET;ASP.NET Core ;jQuery;Microsoft Azure;Microsoft SQL Server,14,1,Woman
+41,<35,No,Undergraduate,1,Man,No,Dev,10,3,United Kingdom of Great Britain and Northern Ireland,64630.0,Go;JavaScript;Node.js;PHP;TypeScript;Git;React.js;Microsoft SQL Server,8,1,Woman
+42,<35,No,Undergraduate,1,Man,No,Dev,10,8,Spain,38915.0,HTML/CSS;Java;JavaScript;Node.js;Python;SQL;Docker;Git;jQuery;Spring;Microsoft SQL Server;MongoDB;PostgreSQL,13,1,Woman
+43,<35,No,Undergraduate,1,Man,No,Dev,8,3,Nigeria,4944.0,HTML/CSS;JavaScript;Python;Docker;Angular.js;Django;React.js;DigitalOcean;MySQL;PostgreSQL;Redis,11,0,Woman
+44,<35,No,Other,0,Man,No,Dev,6,1,Germany,29508.0,Bash/Shell;C#;Dart;Go;HTML/CSS;JavaScript;Node.js;PowerShell;Python;SQL;TypeScript;Ansible;Docker;Git;Kubernetes;Terraform;Xamarin;ASP.NET;ASP.NET Core ;Express;Flask;React.js;AWS;Microsoft Azure;Couchbase;DynamoDB;Elasticsearch;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;Redis;SQLite,33,1,Woman
+45,<35,No,Master,1,Man,No,Dev,13,2,Italy,14268.0,Bash/Shell;HTML/CSS;Java;JavaScript;PHP;Python;Scala;SQL;VBA;Git;jQuery;React.js;Vue.js;AWS;MySQL;Oracle;PostgreSQL,17,1,Woman
+46,<35,No,Undergraduate,1,Man,No,Dev,10,2,Netherlands,43239.0,Bash/Shell;HTML/CSS;Java;JavaScript;Kotlin;Node.js;Python;SQL;TypeScript;Docker;Git;Angular;React.js;Spring;MariaDB;MySQL;PostgreSQL,17,1,Woman
+47,<35,No,NoHigherEd,1,Man,No,Dev,3,0,Albania,48.0,HTML/CSS;JavaScript;Node.js;Git;Express;React.js;Heroku;MongoDB,8,0,Woman
+48,<35,No,Undergraduate,1,Man,No,Dev,12,6,United States of America,140000.0,C#;HTML/CSS;JavaScript;SQL;VBA;Angular.js;ASP.NET;ASP.NET Core ;jQuery;Microsoft Azure;DynamoDB;Elasticsearch;Microsoft SQL Server;SQLite,14,1,Woman
+49,<35,No,Other,1,Man,No,Dev,6,4,Bangladesh,14124.0,C;C#;C++;Dart;HTML/CSS;Java;JavaScript;PHP;Python;Git;Kubernetes;Xamarin;Yarn;jQuery;Laravel;React.js;Symfony;Vue.js;AWS;DigitalOcean;Heroku;Firebase;MongoDB;MySQL;Redis;SQLite,26,1,Woman
+50,>35,No,Other,1,Man,Yes,NotDev,6,5,Israel,101916.0,Bash/Shell;Python;Docker;Git;Puppet;AWS;MySQL,7,0,Woman
+51,<35,No,Master,0,Man,No,Dev,17,8,Viet Nam,21000.0,Kotlin;Objective-C;SQL;Swift;Git;AWS;Google Cloud Platform,7,0,Woman
+52,<35,No,Undergraduate,1,Man,No,Dev,7,1,United States of America,54000.0,Bash/Shell;C#;HTML/CSS;JavaScript;TypeScript;Git;ASP.NET;Vue.js;AWS;Microsoft SQL Server,10,1,Woman
+53,>35,No,Master,0,Man,Yes,Dev,27,16,United States of America,200000.0,C#;HTML/CSS;JavaScript;Node.js;PHP;PowerShell;SQL;Git;Angular;Angular.js;ASP.NET;ASP.NET Core ;jQuery;Vue.js;Microsoft Azure;Elasticsearch;Microsoft SQL Server;MySQL;SQLite,19,1,Woman
+54,<35,No,Undergraduate,1,Man,No,Dev,17,5,Netherlands,36324.0,Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;PHP;Python;Docker;Git;Kubernetes;Puppet;Unity 3D;Angular;jQuery;Laravel;React.js;Symfony;AWS;DigitalOcean;Elasticsearch;MySQL;SQLite,23,1,Woman
+55,<35,No,Undergraduate,1,Man,Yes,Dev,1,3,United Kingdom of Great Britain and Northern Ireland,38778.0,C#;Java;JavaScript;Python;SQL;Ansible;Chef;Docker;Terraform;Unity 3D;ASP.NET;ASP.NET Core ;Django;AWS;Microsoft Azure;Elasticsearch;MongoDB;MySQL;PostgreSQL;SQLite,20,1,Woman
+56,<35,No,Other,0,Man,No,Dev,5,3,Poland,48600.0,Go;JavaScript;Python;SQL;TypeScript;VBA;Ansible;Docker;Git;Yarn;Django;FastAPI;Flask;Gatsby;jQuery;React.js;AWS;Google Cloud Platform;Microsoft Azure;Elasticsearch;MariaDB;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL;Redis;SQLite,28,1,Woman
+57,>35,No,Master,0,Man,No,Dev,30,25,Netherlands,59454.0,C#;Delphi;JavaScript;Node.js;TypeScript;Git;Angular;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server,10,1,Woman
+58,<35,No,Undergraduate,1,Woman,No,Dev,4,2,Romania,14652.0,JavaScript;Swift;TypeScript;Git;React.js;Google Cloud Platform;Firebase;PostgreSQL,8,0,Man
+59,>35,No,Undergraduate,1,Man,No,Dev,38,34,United States of America,200000.0,C#;F#;SQL;Git;Microsoft SQL Server,5,0,Woman
+60,<35,No,Master,1,Man,No,Dev,27,11,Germany,97288.0,Bash/Shell;C;Dart;Go;HTML/CSS;JavaScript;Node.js;PHP;Python;TypeScript;Docker;Git;Kubernetes;Yarn;React.js;AWS;DynamoDB;Elasticsearch;MongoDB;MySQL;Redis;SQLite,22,1,Woman
+61,<35,No,Other,1,Woman,No,Dev,15,5,Russian Federation,75492.0,C++;Java;Kotlin;Objective-C;Swift;SQLite,6,0,Man
+62,<35,No,Master,0,Man,No,NotDev,2,2,Sri Lanka,36000.0,SQL;Git;jQuery;Google Cloud Platform;SQLite,5,0,Woman
+63,<35,No,Master,1,Man,No,Dev,7,5,France,49725.0,JavaScript;Node.js;PHP;TypeScript;Docker;Git;Angular;Express;Laravel;MariaDB;MongoDB;MySQL,12,1,Woman
+64,>35,No,Undergraduate,1,Man,No,Dev,31,25,United Kingdom of Great Britain and Northern Ireland,70047.0,C#;HTML/CSS;PowerShell;SQL;Git;Xamarin;ASP.NET;ASP.NET Core ;jQuery;Microsoft Azure;Microsoft SQL Server,11,1,Woman
+65,<35,No,Undergraduate,1,Man,Yes,NotDev,15,4,United States of America,98500.0,Bash/Shell;C;C++;Go;HTML/CSS;Java;JavaScript;Matlab;Node.js;Python;Scala;SQL;TypeScript;Unity 3D;Unreal Engine;Django;FastAPI;Flask;jQuery;React.js;MongoDB;MySQL;SQLite,23,1,Woman
+66,<35,Yes,Undergraduate,0,Man,No,Dev,20,7,India,2340.0,HTML/CSS;JavaScript;Node.js;PHP;PowerShell;Python;SQL;Git;Angular;Express;Gatsby;jQuery;React.js;Heroku;Firebase;MariaDB;MongoDB;MySQL;Redis,19,1,Woman
+67,>35,No,Undergraduate,1,Man,No,Dev,41,24,United States of America,115000.0,C++;HTML/CSS;JavaScript;Node.js;Perl;PHP;SQL;Git;ASP.NET;Microsoft Azure;SQLite,11,0,Woman
+68,<35,No,Master,1,Man,No,NotDev,9,6,Switzerland,43908.0,JavaScript;Python;SQL;Docker;Git;Django;jQuery;Google Cloud Platform;MariaDB;MongoDB;MySQL;PostgreSQL;SQLite,13,1,Woman
+69,<35,No,Undergraduate,1,Man,No,Dev,8,7,Lithuania,103408.0,C++;Go;JavaScript;Node.js;Python;TypeScript;Docker;Git;Kubernetes;React.js;AWS;DynamoDB;Elasticsearch;MongoDB;Redis,15,1,Woman
+70,<35,No,Master,1,Man,No,Dev,13,8,Ukraine,42000.0,C#;HTML/CSS;JavaScript;PowerShell;TypeScript;Git;Yarn;Angular;Angular.js;ASP.NET;ASP.NET Core ;jQuery;AWS;Google Cloud Platform;Microsoft Azure;Microsoft SQL Server;MongoDB;Redis,18,1,Woman
+71,<35,No,Undergraduate,1,Man,No,NotDev,7,4,Israel,105072.0,Assembly;Python,2,0,Woman
+72,>35,No,PhD,1,Man,No,Dev,42,22,United Kingdom of Great Britain and Northern Ireland,71093.0,Matlab,1,0,Woman
+73,>35,No,Undergraduate,1,Man,No,Dev,8,4,Croatia,17412.0,JavaScript;PHP;SQL;React.js;Symfony;MySQL,6,0,Woman
+74,<35,No,Other,0,Man,Yes,Dev,4,2,Georgia,14844.0,HTML/CSS;JavaScript;Python;SQL;Git;Flask;DigitalOcean;Heroku;SQLite,9,0,Woman
+75,>35,No,Master,1,Man,No,NotDev,3,3,Canada,98321.0,Python;R;Git;AWS;Microsoft SQL Server,5,0,Woman
+76,>35,No,Other,1,Man,No,Dev,16,14,Italy,54049.0,C;C#;C++;Java;Kotlin;PHP;SQL;Docker;Git;Kubernetes;Spring;Microsoft Azure;IBM DB2;Microsoft SQL Server;MySQL;Oracle;PostgreSQL,17,1,Woman
+77,>35,No,Master,0,Man,No,Dev,26,24,Denmark,115784.0,Bash/Shell;Groovy;HTML/CSS;Java;JavaScript;Ruby;SQL;TypeScript;Docker;Git;Angular;Spring;Google Cloud Platform;Oracle;PostgreSQL,15,1,Woman
+78,<35,No,Undergraduate,1,Man,No,Dev,10,6,Russian Federation,56616.0,Go;JavaScript;Python;SQL;Docker;Git;DigitalOcean;Cassandra;Elasticsearch;PostgreSQL;Redis,11,0,Woman
+79,<35,No,Undergraduate,1,Man,No,Dev,14,11,Ireland,69183.0,Groovy;Java;Kotlin;Git;AWS;Google Cloud Platform;SQLite,7,0,Woman
+80,>35,No,Undergraduate,1,Man,No,Dev,24,18,Greece,25944.0,Java;JavaScript;SQL;Git;jQuery;Spring;IBM Cloud or Watson;Microsoft Azure;IBM DB2;MariaDB;Microsoft SQL Server;MySQL,12,1,Woman
+81,>35,No,Other,1,Man,No,Dev,35,25,United Kingdom of Great Britain and Northern Ireland,60752.0,C;C++;HTML/CSS;JavaScript,4,0,Woman
+82,>35,No,Undergraduate,1,Man,No,Dev,6,3,Poland,16704.0,C;C++;Delphi;Go;HTML/CSS;Perl;Python;R;Ruby;Rust;Docker;Git;Terraform;Django;Flask;AWS;DynamoDB;MariaDB;MongoDB;MySQL;PostgreSQL;SQLite,22,0,Woman
+83,>35,No,Undergraduate,1,Man,No,Dev,23,15,Romania,81420.0,C#;HTML/CSS;JavaScript;PHP;SQL;Docker;Git;Yarn;jQuery;React.js;Symfony;Vue.js;AWS;Elasticsearch;MariaDB;MySQL;PostgreSQL;Redis,18,0,Woman
+84,<35,No,Undergraduate,1,Man,No,Dev,7,3,Lebanon,14280.0,Java;TypeScript;Git;Angular;Spring,5,0,Woman
+85,>35,No,Master,1,Man,No,Dev,20,13,United Kingdom of Great Britain and Northern Ireland,84019.0,HTML/CSS;Java;JavaScript;Node.js;TypeScript;Yarn;Angular;Express;React.js;Vue.js;AWS;DigitalOcean;MongoDB;MySQL;PostgreSQL,15,1,Woman
+86,>35,No,Undergraduate,1,Man,No,Dev,20,18,Bahrain,63648.0,C;C#;C++;HTML/CSS;JavaScript;SQL;TypeScript;Docker;Git;ASP.NET;ASP.NET Core ;jQuery;Vue.js;IBM DB2;Microsoft SQL Server;MySQL;Oracle;PostgreSQL;Redis;SQLite,20,1,Woman
+87,<35,No,Undergraduate,1,Man,No,Dev,5,1,Egypt,4620.0,Assembly;C#;C++;HTML/CSS;JavaScript;Python;R;TypeScript;Git;Angular;Angular.js;jQuery;React.js;DigitalOcean;Microsoft SQL Server;PostgreSQL;SQLite,17,1,Woman
+88,<35,No,Master,1,Man,No,Dev,10,9,United States of America,70000.0,C;C++;JavaScript;Objective-C;Python;Swift;TypeScript;Docker;Git;Flask;React.js;AWS;DynamoDB;PostgreSQL;Redis,15,0,Woman
+89,<35,No,Other,1,Man,No,Dev,12,7,Ireland,91883.0,Bash/Shell;Go;HTML/CSS;JavaScript;Ruby;SQL;TypeScript;Chef;Docker;Git;Terraform;Angular;React.js;Ruby on Rails;AWS;DigitalOcean;Google Cloud Platform;MySQL;PostgreSQL;Redis,20,0,Woman
+90,<35,No,Master,1,Man,No,Dev,3,2,Russian Federation,30192.0,JavaScript;Python;Docker;Git;Flask;MariaDB;PostgreSQL,7,0,Woman
+91,<35,No,Undergraduate,1,Man,Yes,Dev,10,5,United States of America,90000.0,C#;HTML/CSS;SQL;TypeScript;Git;Angular;Angular.js;ASP.NET;ASP.NET Core ;jQuery;Microsoft Azure;MySQL,12,1,Woman
+92,>35,No,Undergraduate,1,Man,No,Dev,20,20,Colombia,21600.0,C#;HTML/CSS;JavaScript;Node.js;PHP;Python;SQL;TypeScript;VBA;Docker;Git;Angular;ASP.NET;ASP.NET Core ;jQuery;React.js;Microsoft Azure;MariaDB;Microsoft SQL Server;MySQL,20,1,Woman
+93,<35,No,Undergraduate,1,Man,No,Dev,15,6,Netherlands,50592.0,C#;Docker;Unity 3D;Xamarin;ASP.NET;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server;SQLite,9,1,Woman
+94,<35,No,Undergraduate,1,Man,No,Dev,10,1,India,1512.0,C;C#;C++;HTML/CSS;JavaScript;Node.js;PHP;Python;R;SQL;TypeScript;Docker;Git;Yarn;Angular;Angular.js;Django;jQuery;Laravel;React.js;Symfony;AWS;DigitalOcean;Google Cloud Platform;Heroku;IBM Cloud or Watson;Firebase;MariaDB;Microsoft SQL Server;MongoDB;MySQL;SQLite,32,1,Woman
+95,<35,No,Master,1,Woman,No,NotDev,9,2,United States of America,193000.0,Ansible;Docker;Git;AWS;Microsoft SQL Server,5,0,Man
+96,<35,No,Undergraduate,1,Man,Yes,Dev,9,4,Greece,28536.0,Bash/Shell;HTML/CSS;JavaScript;Node.js;SQL;Docker;Git;Kubernetes;Yarn;Express;React.js;Couchbase;Elasticsearch;MariaDB,14,0,Woman
+97,>35,No,Master,1,Man,No,NotDev,4,2,Australia,96874.0,C#;HTML/CSS;Matlab;Python;R;SQL;Git;Django;Flask;AWS;Microsoft Azure;MySQL;PostgreSQL;SQLite,14,0,Woman
+98,>35,No,Undergraduate,1,Man,No,Dev,24,14,United Kingdom of Great Britain and Northern Ireland,77556.0,Bash/Shell;Java;JavaScript;Node.js;Python;TypeScript;Docker;Git;Kubernetes;Terraform;AWS;DynamoDB;MySQL;PostgreSQL;Redis,15,1,Woman
+99,>35,No,Undergraduate,0,Man,No,Dev,21,14,United Kingdom of Great Britain and Northern Ireland,103408.0,Bash/Shell;HTML/CSS;Java;JavaScript;Kotlin;Node.js;Objective-C;PHP;SQL;Swift;TypeScript;Docker;Git;Yarn;Express;React.js;AWS;MySQL;SQLite,19,1,Woman
+100,>35,No,Undergraduate,1,Man,No,Dev,28,22,Switzerland,121979.0,Bash/Shell;C;C++;Docker;Git;DigitalOcean;Google Cloud Platform,7,0,Woman
+101,<35,No,PhD,1,Man,Yes,Dev,15,9,Russian Federation,75492.0,C#;Java;Python;Docker;Git;Kubernetes;Xamarin;ASP.NET;ASP.NET Core ;FastAPI;Flask;React.js;Google Cloud Platform;PostgreSQL,14,0,Woman
+102,<35,No,Undergraduate,0,Man,No,Dev,10,8,Germany,84316.0,Bash/Shell;Go;HTML/CSS;Java;JavaScript;Kotlin;Node.js;Python;Ruby;TypeScript;Ansible;Docker;Git;Kubernetes;Yarn;Express;FastAPI;Flask;Ruby on Rails;AWS;DigitalOcean;Microsoft Azure;Elasticsearch;MariaDB;MongoDB;MySQL;Oracle;PostgreSQL;Redis,29,1,Woman
+103,>35,No,Undergraduate,1,Man,No,Dev,31,26,Russian Federation,43404.0,Haskell;HTML/CSS;JavaScript;Node.js;TypeScript;Chef;Docker;Git;Yarn;Express;Gatsby;React.js;AWS;Google Cloud Platform;PostgreSQL;Redis,16,0,Woman
+104,<35,No,Undergraduate,1,Man,No,Dev,6,2,Chile,22584.0,C#;Dart;HTML/CSS;JavaScript;Node.js;SQL;TypeScript;Git;ASP.NET;ASP.NET Core ;jQuery;Vue.js;IBM DB2;Microsoft SQL Server,14,1,Woman
+105,<35,No,Undergraduate,1,Man,No,Dev,14,7,United Kingdom of Great Britain and Northern Ireland,103408.0,Java;Kotlin;Git;SQLite,4,0,Woman
+106,<35,No,Master,1,Man,No,Dev,15,5,France,44320.0,Bash/Shell;HTML/CSS;Java;JavaScript;Kotlin;Node.js;SQL;TypeScript;Docker;Git;Kubernetes;Angular;Spring;Vue.js;Elasticsearch;MariaDB;MongoDB;MySQL;PostgreSQL;SQLite,20,1,Woman
+107,>35,No,Undergraduate,1,Man,Yes,Dev,30,22,United States of America,165000.0,Bash/Shell;Groovy;HTML/CSS;Java;JavaScript;Kotlin;Node.js;PHP;Python;Ruby;SQL;TypeScript;Docker;Git;Terraform;Angular.js;jQuery;React.js;Ruby on Rails;Spring;Vue.js;AWS;DigitalOcean;DynamoDB;Elasticsearch;MongoDB;MySQL;PostgreSQL;Redis,29,1,Woman
+108,<35,No,Undergraduate,1,Man,Yes,Dev,13,3,Indonesia,5268.0,Dart;HTML/CSS;JavaScript;Node.js;PHP;Docker;Git;Vue.js;Google Cloud Platform;MariaDB;Microsoft SQL Server;MySQL;SQLite,13,1,Woman
+109,<35,No,Other,1,Man,Yes,Dev,10,5,Germany,51888.0,HTML/CSS;JavaScript;Node.js;Rust;TypeScript;Docker;Git;Unity 3D;Express;React.js;AWS;DigitalOcean;MySQL;PostgreSQL,14,0,Woman
+110,<35,No,Undergraduate,1,Man,Yes,Dev,12,7,"Iran, Islamic Republic of...",85500.0,Go;HTML/CSS;JavaScript;Python;SQL;TypeScript;Ansible;Docker;Git;Kubernetes;Terraform;Vue.js;AWS;Elasticsearch;PostgreSQL;Redis,16,0,Woman
+111,<35,No,Undergraduate,0,Man,No,Dev,7,7,Bangladesh,48000.0,C#;C++;Docker;Angular;ASP.NET;ASP.NET Core ;Google Cloud Platform;Microsoft Azure;Microsoft SQL Server;MongoDB;PostgreSQL;Redis,12,1,Woman
+112,<35,No,Master,1,Man,No,Dev,12,9,France,64859.0,Bash/Shell;Objective-C;Swift;Git;Microsoft Azure;SQLite,6,0,Woman
+113,<35,No,Undergraduate,1,Man,No,Dev,6,3,Germany,42158.0,C;C#;C++;HTML/CSS;Node.js;SQL;Git;Kubernetes;Xamarin;Microsoft Azure;Oracle,11,0,Woman
+114,<35,No,Undergraduate,1,Nonbinary,Yes,Dev,18,7,Germany,32424.0,C#;Git,2,0,Man
+115,<35,No,Undergraduate,1,Man,No,NotDev,2,2,United States of America,60000.0,Bash/Shell;HTML/CSS;JavaScript;Python;SQL;Git;Django;React.js;AWS;IBM DB2;Microsoft SQL Server;SQLite,12,1,Woman
+116,<35,No,Master,0,Man,No,Dev,5,5,Netherlands,51888.0,Python;SQL;Git;Flask;AWS;PostgreSQL;SQLite,7,0,Woman
+117,>35,No,PhD,1,Man,No,NotDev,16,12,France,35028.0,R,1,0,Woman
+118,<35,No,Other,1,Man,No,NotDev,9,3,Portugal,9084.0,C#;HTML/CSS;Java;SQL;VBA;ASP.NET;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server;MySQL,10,1,Woman
+119,>35,No,PhD,1,Man,No,Dev,13,8,Germany,74588.0,HTML/CSS;Java;PHP,3,0,Woman
+120,<35,No,Undergraduate,1,Man,No,Dev,6,4,Slovakia,33732.0,HTML/CSS;JavaScript;Node.js;TypeScript;Docker;Git;React.js;Vue.js;AWS;Google Cloud Platform;Microsoft Azure,11,0,Woman
+121,<35,No,Master,1,Man,No,Dev,13,8,Bulgaria,27852.0,C#;HTML/CSS;Java;JavaScript;Node.js;SQL;TypeScript;Git;jQuery;Vue.js;Microsoft SQL Server;Redis,12,1,Woman
+122,<35,No,Undergraduate,1,Man,No,Dev,12,3,United Kingdom of Great Britain and Northern Ireland,50153.0,Bash/Shell;C;Java;Kotlin;Perl;PowerShell;Python;Docker;Git;Kubernetes;IBM Cloud or Watson,11,0,Woman
+123,<35,No,Master,1,Man,No,Dev,15,11,India,30716.0,HTML/CSS;JavaScript;Node.js;Objective-C;Swift;TypeScript;Git;Gatsby;React.js;Google Cloud Platform;Microsoft Azure;Firebase;SQLite,13,1,Woman
+124,<35,No,Master,1,Man,No,Dev,10,7,France,77831.0,Bash/Shell;C;C++;Java;JavaScript;Node.js;PHP;Python;Ruby;SQL;TypeScript;Ansible;Docker;Git;Yarn;Angular;Angular.js;Drupal;Express;jQuery;Laravel;Symfony;MariaDB;MySQL;SQLite,25,1,Woman
+125,<35,No,Undergraduate,1,Woman,No,Dev,7,3,Denmark,81624.0,C#;HTML/CSS;SQL;TypeScript;Docker;Git;Kubernetes;Terraform;Yarn;ASP.NET Core ;React.js;Microsoft Azure;Microsoft SQL Server,13,1,Man
+126,<35,No,Master,1,Man,No,NotDev,6,2,Germany,54049.0,Bash/Shell;Python;Git;Flask;Vue.js,5,0,Woman
+127,<35,Yes,Undergraduate,1,Man,Yes,Dev,10,2,Armenia,10450.0,HTML/CSS;JavaScript;Node.js;PHP;SQL;TypeScript;Docker;Git;Unreal Engine;Express;Laravel;Vue.js;Heroku;MariaDB;MongoDB;MySQL;PostgreSQL;SQLite,18,1,Woman
+128,<35,No,Master,1,Man,No,Dev,7,7,France,41077.0,HTML/CSS;JavaScript;Node.js;PHP;SQL;TypeScript;Docker;Angular;Express;React.js;Symfony;Microsoft SQL Server;MySQL;Oracle;PostgreSQL,15,1,Woman
+129,<35,No,Undergraduate,1,Man,No,Dev,10,3,Finland,45396.0,C;HTML/CSS;JavaScript;Node.js;TypeScript;Git;React.js;Microsoft Azure,8,0,Woman
+130,<35,No,Other,1,Man,No,Dev,4,2,United Kingdom of Great Britain and Northern Ireland,19389.0,C#;HTML/CSS;JavaScript;SQL;VBA;Git;ASP.NET;ASP.NET Core ;jQuery;Microsoft SQL Server,10,1,Woman
+131,>35,No,Master,1,Man,No,Dev,24,15,France,77831.0,Bash/Shell;Go;HTML/CSS;JavaScript;SQL;TypeScript;Angular;PostgreSQL,8,0,Woman
+132,>35,No,Undergraduate,1,Man,No,Dev,18,13,United States of America,160000.0,Bash/Shell;C;C++;JavaScript;Python;Git,6,0,Woman
+133,<35,No,Undergraduate,1,Man,No,Dev,12,8,Israel,200409.0,Java;Scala;Docker;Git;Kubernetes;AWS;Couchbase;Elasticsearch;Microsoft SQL Server,9,0,Woman
+134,>35,No,Undergraduate,0,Man,No,Dev,37,31,United States of America,185000.0,C#;Dart;Go;Java;JavaScript;Matlab;SQL;Xamarin;Angular;Angular.js;ASP.NET;jQuery;React.js;AWS;IBM Cloud or Watson;Microsoft Azure;Microsoft SQL Server,17,1,Woman
+135,<35,No,Undergraduate,1,Man,No,NotDev,20,9,United States of America,107972.0,Bash/Shell;Perl;PowerShell;VBA;Docker;Git;AWS,7,0,Woman
+136,<35,No,Undergraduate,1,Man,No,Dev,9,7,Hong Kong (S.A.R.),66897.0,Bash/Shell;HTML/CSS;Java;JavaScript;Python;SQL;Docker;Git;Angular.js;ASP.NET;jQuery;Spring;AWS;DynamoDB;IBM DB2;Microsoft SQL Server;MySQL;Oracle;PostgreSQL;Redis;SQLite,21,1,Woman
+137,>35,No,Other,1,Man,No,Dev,5,0,Argentina,75000.0,HTML/CSS;JavaScript;Node.js;Python;Ruby;SQL;TypeScript;Docker;Git;Yarn;jQuery;React.js;Ruby on Rails;Google Cloud Platform;Heroku;Firebase;MySQL,17,1,Woman
+138,<35,No,Other,1,Man,Yes,Dev,8,6,United Kingdom of Great Britain and Northern Ireland,48472.0,HTML/CSS;JavaScript;PHP;SQL;Docker;Git;jQuery;Laravel;React.js;Vue.js;AWS;MySQL,12,0,Woman
+139,>35,No,Undergraduate,1,Man,Yes,Dev,24,16,United States of America,120000.0,Bash/Shell;C#;HTML/CSS;JavaScript;Node.js;SQL;Git;Puppet;Express;React.js;Microsoft Azure;IBM DB2;PostgreSQL,13,1,Woman
+140,<35,No,Other,1,Man,No,Dev,12,12,Brazil,8796.0,Dart;HTML/CSS;JavaScript;TypeScript;Docker;Git;Angular;Firebase;MySQL;SQLite,10,0,Woman
+141,<35,Yes,Master,1,Woman,Yes,Dev,10,10,Spain,12972.0,Assembly;Bash/Shell;C;C#;C++;Go;HTML/CSS;Java;JavaScript;Matlab;PHP;Python;R;SQL;TypeScript;VBA;Docker;Git;Unity 3D;Xamarin;Angular;Django;Drupal;jQuery;Laravel;React.js;Spring;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL,32,1,Man
+142,<35,No,Other,0,Man,No,Dev,5,3,"Iran, Islamic Republic of...",4272.0,HTML/CSS;JavaScript;Node.js;SQL;TypeScript;Docker;Git;Yarn;Express;React.js;Vue.js;Heroku;Firebase;MongoDB;MySQL;PostgreSQL;Redis,17,1,Woman
+143,<35,No,Undergraduate,1,Man,No,Dev,9,4,Spain,28105.0,C#;JavaScript;Kotlin;TypeScript;Git;Unity 3D;Angular;React.js;Firebase;MySQL,10,0,Woman
+144,>35,No,Other,1,Man,No,Dev,30,20,Finland,77832.0,Bash/Shell;Java;SQL;Ansible;Docker;Git;Yarn;AWS;Oracle;PostgreSQL,10,0,Woman
+145,<35,No,PhD,1,Man,No,NotDev,10,4,United Kingdom of Great Britain and Northern Ireland,51704.0,Matlab;Python;Ruby;Git;Flask,5,0,Woman
+146,>35,No,Undergraduate,1,Man,No,NotDev,23,23,Costa Rica,18000.0,HTML/CSS;JavaScript;Node.js;PHP;SQL;Git;React.js;MongoDB;MySQL,9,0,Woman
+147,>35,No,Other,0,Man,No,Dev,20,15,Netherlands,43239.0,Bash/Shell;HTML/CSS;JavaScript;Node.js;PHP;Python;SQL;Git;Yarn;Laravel;Symfony;AWS;Heroku;MariaDB;MySQL;PostgreSQL;SQLite,17,1,Woman
+148,<35,No,Undergraduate,1,Man,No,Dev,6,1,Egypt,9231.0,JavaScript;Kotlin;Docker;Git;MySQL;SQLite,6,0,Woman
+149,>35,No,Undergraduate,1,Man,No,Dev,25,15,Germany,70264.0,C#;HTML/CSS;TypeScript;Docker;Git;Angular;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server;SQLite,10,1,Woman
+150,<35,No,Undergraduate,1,Man,Yes,Dev,5,2,Egypt,5388.0,C;C++;Dart;Java;JavaScript;Kotlin;Node.js;R;Git;Puppet;Django;Flask;React.js;Heroku;Firebase;MySQL;Oracle;SQLite,18,1,Woman
+151,<35,No,Master,1,Man,No,Dev,22,13,United States of America,115000.0,Bash/Shell;C;C#;HTML/CSS;JavaScript;Node.js;Python;Git;Unity 3D;AWS,10,1,Woman
+152,<35,No,Undergraduate,1,Woman,Yes,Dev,21,12,United States of America,144000.0,Bash/Shell;Go;Groovy;HTML/CSS;Java;JavaScript;Node.js;Python;TypeScript;Git;Kubernetes;Angular;Angular.js;Express;React.js;Spring;AWS;Google Cloud Platform;Microsoft Azure;Elasticsearch;MongoDB;SQLite,22,1,Man
+153,<35,No,Master,1,Man,No,Dev,14,4,Ireland,65508.0,C;Python;Rust;Ansible;Docker;Git,6,0,Woman
+154,>35,No,Master,1,Man,No,Dev,31,21,Germany,70264.0,Assembly;C;C#;VBA;SQLite,5,0,Woman
+155,>35,No,Undergraduate,1,Man,No,Dev,44,34,Canada,181515.0,Assembly;Bash/Shell;C;Go;Python;Rust;Git,7,0,Woman
+156,>35,No,Undergraduate,1,Man,No,Dev,40,26,Sweden,81000.0,Bash/Shell;Dart;HTML/CSS;JavaScript;Python;Docker;Git;Angular.js;Django;Vue.js;Heroku;PostgreSQL;SQLite,13,0,Woman
+157,>35,No,NoHigherEd,1,Man,No,Dev,22,22,United States of America,105000.0,Bash/Shell;HTML/CSS;Java;JavaScript;Python;Git,6,0,Woman
+158,>35,No,Master,1,Man,No,Dev,20,5,Germany,56211.0,Bash/Shell;C#;Java;Kotlin;SQL;VBA;Docker;Git;Kubernetes;Spring;IBM Cloud or Watson;Microsoft SQL Server;PostgreSQL,13,1,Woman
+159,<35,No,Master,1,Man,No,NotDev,10,7,United Kingdom of Great Britain and Northern Ireland,64630.0,C#;PowerShell;Python;Git;Microsoft Azure;Microsoft SQL Server;SQLite,7,1,Woman
+160,<35,No,Master,1,Man,No,Dev,14,10,United States of America,110000.0,Objective-C;Ruby;Swift;Git;Unity 3D;MySQL,6,0,Woman
+161,<35,No,Undergraduate,0,Man,No,Dev,14,7,Romania,64860.0,HTML/CSS;JavaScript;TypeScript;Express;React.js;Vue.js;DigitalOcean;MongoDB;MySQL;Redis,10,0,Woman
+162,>35,No,Undergraduate,1,Man,Yes,Dev,25,15,United States of America,120000.0,C#;HTML/CSS;JavaScript;Kotlin;Node.js;Objective-C;PowerShell;SQL;TypeScript;Git;ASP.NET;ASP.NET Core ;Express;jQuery;React.js;AWS;Microsoft Azure;Firebase;Microsoft SQL Server;Redis;SQLite,21,1,Woman
+163,<35,No,Undergraduate,1,Man,No,Dev,7,0,Bangladesh,6360.0,C;C++;PHP;Python;Git;Flask;MongoDB;MySQL;Oracle;Redis,10,0,Woman
+164,<35,No,NoHigherEd,1,Man,Yes,Dev,11,6,Germany,48644.0,Bash/Shell;HTML/CSS;JavaScript;PHP;PowerShell;Ruby;SQL;TypeScript;Docker;Git;Yarn;jQuery;Laravel;Ruby on Rails;Vue.js;MariaDB;MongoDB;MySQL;PostgreSQL;SQLite,20,1,Woman
+165,<35,No,Master,1,Man,No,Dev,17,11,Poland,54672.0,C++;Java;JavaScript;Kotlin;Python;SQL;Ansible;Docker;Git;Kubernetes;AWS;Elasticsearch;Oracle;Redis,14,0,Woman
+166,<35,No,Undergraduate,1,Man,No,Dev,6,4,Netherlands,35676.0,C#;HTML/CSS;JavaScript;Node.js;PHP;PowerShell;TypeScript;Docker;Git;Xamarin;Angular;ASP.NET;ASP.NET Core ;Microsoft SQL Server;PostgreSQL,15,1,Woman
+167,<35,No,Undergraduate,1,Man,No,Dev,18,4,Canada,75631.0,Go;Docker;Cassandra,3,0,Woman
+168,>35,No,Other,1,Man,No,NotDev,41,39,United States of America,70000.0,Python;ASP.NET Core ;Microsoft SQL Server;MySQL;PostgreSQL;SQLite,6,0,Woman
+169,<35,No,Master,1,Man,No,NotDev,14,9,Germany,58373.0,LISP;PHP;Python;Scala;SQL;Docker;MySQL;PostgreSQL;SQLite,9,0,Woman
+170,<35,No,Undergraduate,1,Man,No,Dev,4,3,Greece,25944.0,HTML/CSS;JavaScript;Node.js;PHP;SQL;Git;Laravel;React.js;Symfony;Vue.js;AWS;DigitalOcean;MySQL;Redis;SQLite,15,0,Woman
+171,<35,No,Undergraduate,1,Man,No,Dev,4,2,India,5585.0,HTML/CSS;Java;JavaScript;Ruby;SQL;TypeScript;Git;Yarn;React.js;Ruby on Rails;Spring;MySQL;PostgreSQL,13,0,Woman
+172,<35,Yes,Other,1,Woman,Yes,Dev,15,4,United States of America,58000.0,Bash/Shell;JavaScript;PHP;SQL;Git;AWS;DigitalOcean;MySQL,8,0,Man
+173,<35,No,Undergraduate,1,Man,No,Dev,18,6,Germany,61616.0,Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;SQL;Docker;Git;React.js;Spring;AWS;Google Cloud Platform;Oracle;PostgreSQL,15,0,Woman
+174,>35,No,PhD,1,Man,No,NotDev,20,13,France,59454.0,C++;Elixir;Rust;Kubernetes;Terraform;AWS,6,0,Woman
+175,<35,No,PhD,1,Man,No,NotDev,15,3,Sweden,55224.0,C;C++;Java;Matlab;R;Git;Vue.js,7,0,Woman
+176,<35,No,Master,1,Man,Yes,Dev,11,6,Canada,68068.0,Python;Docker;Git;Kubernetes;AWS;DigitalOcean;Google Cloud Platform;Microsoft Azure;MongoDB;PostgreSQL,10,0,Woman
+177,<35,No,Undergraduate,1,Man,Yes,Dev,12,5,India,217800.0,C++;HTML/CSS;Java;JavaScript;PHP;Python;SQL;Docker;Git;Angular;Angular.js;AWS;Google Cloud Platform;Elasticsearch;MongoDB;MySQL;Oracle,17,0,Woman
+178,>35,No,PhD,1,Man,No,Dev,30,14,Netherlands,118908.0,JavaScript;Python;Docker;Git;Kubernetes;Django;React.js;AWS;SQLite,9,0,Woman
+179,<35,No,NoHigherEd,1,Man,Yes,Dev,18,1,United States of America,40000.0,C#;Git;ASP.NET Core ;Vue.js;Microsoft Azure;Microsoft SQL Server,6,0,Woman
+180,<35,No,Undergraduate,1,Man,No,Dev,15,8,Canada,71850.0,Bash/Shell;HTML/CSS;JavaScript;Node.js;TypeScript;Docker;Git;Yarn;Express;Gatsby;jQuery;React.js,12,1,Woman
+181,>35,No,Undergraduate,1,Man,No,Dev,21,14,Canada,66934.0,HTML/CSS;JavaScript;Angular.js;jQuery,4,0,Woman
+182,<35,No,Master,1,Man,No,Dev,8,3,Finland,54216.0,Assembly;Bash/Shell;C;C++;PowerShell;Python;Git;Microsoft Azure,8,0,Woman
+183,<35,No,Undergraduate,0,Man,No,Dev,12,10,Spain,64860.0,Bash/Shell;JavaScript;Python;SQL;Docker;Git;Django;jQuery;AWS;Google Cloud Platform;Heroku;MongoDB;MySQL;PostgreSQL;SQLite,15,1,Woman
+184,<35,No,Undergraduate,1,Man,No,Dev,6,1,Peru,19860.0,Dart;Python;Docker;Git;AWS;Google Cloud Platform;Firebase;MongoDB;PostgreSQL;SQLite,10,0,Woman
+185,<35,Yes,Other,1,Man,Yes,Dev,6,1,Switzerland,54888.0,HTML/CSS;JavaScript;PHP;Python;SQL;Docker;Git;jQuery;Symfony;MySQL,10,0,Woman
+186,<35,No,NoHigherEd,1,Nonbinary,Yes,Dev,8,7,Germany,58373.0,Dart;HTML/CSS;JavaScript;Node.js;PHP;SQL;TypeScript;Git;Yarn;Angular;Express;React.js;Symfony;Google Cloud Platform;Elasticsearch;Firebase;MySQL,17,0,Man
+187,>35,No,Master,1,Man,No,Dev,27,20,Russian Federation,56616.0,Go;Groovy;Java;Kotlin;Python;Ansible;Docker;Git;Kubernetes;Microsoft Azure;MariaDB;Microsoft SQL Server;MySQL;Oracle;PostgreSQL;Redis,16,0,Woman
+188,<35,No,PhD,1,Man,Yes,NotDev,13,9,Greece,45401.0,Bash/Shell;C#;HTML/CSS;Java;JavaScript;Kotlin;PowerShell;Python;SQL;Git;ASP.NET;Flask;jQuery;Microsoft Azure;Firebase;Microsoft SQL Server;SQLite,17,1,Woman
+189,<35,No,Master,0,Man,No,Dev,2,1,France,48104.0,Haskell;JavaScript,2,0,Woman
+190,>35,No,Undergraduate,0,Man,No,Dev,24,20,Netherlands,84312.0,C#;Docker;Git;Kubernetes;ASP.NET;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server,8,0,Woman
+191,>35,No,Master,1,Man,No,Dev,25,24,United Kingdom of Great Britain and Northern Ireland,55582.0,C#;HTML/CSS;JavaScript;Git;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server,7,0,Woman
+192,>35,No,Undergraduate,1,Man,No,Dev,42,27,United Kingdom of Great Britain and Northern Ireland,71093.0,Kotlin;Git,2,0,Woman
+193,<35,No,Other,0,Man,No,Dev,7,3,Russian Federation,72000.0,C;C#;C++;HTML/CSS;Java;JavaScript;Node.js;Objective-C;PHP;Python;R;Ruby;SQL;TypeScript;Docker;Git;Unity 3D;Xamarin;Yarn;Angular;Angular.js;ASP.NET;ASP.NET Core ;Django;Express;jQuery;Laravel;React.js;MongoDB;MySQL,30,1,Woman
+194,>35,No,Other,1,Man,No,Dev,30,21,United Kingdom of Great Britain and Northern Ireland,60752.0,C#;HTML/CSS;JavaScript;SQL;Docker;Git;Kubernetes;Angular;ASP.NET;ASP.NET Core ;jQuery;AWS;Microsoft Azure;Microsoft SQL Server,14,1,Woman
+195,<35,No,Other,1,Man,No,Dev,9,4,Greece,25944.0,C#;HTML/CSS;JavaScript;Node.js;PowerShell;SQL;Docker;Git;Xamarin;ASP.NET Core ;jQuery;Microsoft Azure;Firebase;MariaDB;Microsoft SQL Server;MySQL,16,1,Woman
+196,>35,Yes,Undergraduate,1,Man,No,Dev,26,16,Japan,179858.0,Bash/Shell;C;C++;Go;Groovy;Python;Ansible;Docker;Git;Yarn;Angular;React.js;Google Cloud Platform;MySQL;PostgreSQL;SQLite,16,0,Woman
+197,>35,No,Other,1,Man,No,Dev,26,20,Poland,30372.0,C#;Java;Git;Google Cloud Platform;Microsoft SQL Server;SQLite,6,1,Woman
+198,<35,No,Master,1,Man,Yes,Dev,15,6,Belgium,29832.0,Bash/Shell;C;C++;Java;Rust;SQL;Ansible;Docker;Git;Kubernetes;DigitalOcean;Cassandra;PostgreSQL;SQLite,14,1,Woman
+199,<35,No,Undergraduate,1,Man,No,Dev,10,6,United Arab Emirates,40020.0,C#;HTML/CSS;JavaScript;Node.js;TypeScript;Docker;Git;Unity 3D;Yarn;React.js;AWS;Google Cloud Platform;Microsoft Azure;Firebase;MongoDB;Oracle,16,1,Woman

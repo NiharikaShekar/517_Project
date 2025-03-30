@@ -1,0 +1,4 @@
+Demographic Parity,False Positive Rate (Equalized Odds),False Negative Rate (Equalized Odds),Qualified Rate (Predictive Rate Parity),Unqualified Rate (Predictive Rate Parity)
+0.7015706806282722,0.42408376963350786,0.18324607329842932,0.6022727272727273,0.7864077669902912
+0.5,0.5,,,0.5
+0.7142857142857143,0.42857142857142855,0.14285714285714285,0.6666666666666666,0.75
