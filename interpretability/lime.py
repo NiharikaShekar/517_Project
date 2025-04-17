@@ -1,5 +1,3 @@
-# pip install lime requests
-
 import requests
 import math
 from lime.lime_text import LimeTextExplainer
